@@ -1,2 +1,2 @@
 # aws-sqs-dynamo-example
-SW
+SQS and Dynamo DB integration with Spring Boot
